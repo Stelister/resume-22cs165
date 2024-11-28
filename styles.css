@@ -129,4 +129,8 @@ main section:hover {
     transform: scale(1.02);
     transition: transform 0.3s ease-in-out;
 }
-  
+
+.greeting {
+    margin-top: -1em;
+    margin-bottom: 1em;
+}
